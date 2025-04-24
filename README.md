@@ -6,6 +6,8 @@ Filters are one of the most interesting components of a synthesizer. They assolv
 
 One of my favourite filter is the one Korg developed for its MS20 synthesizer. In particular, I must admit that I have a soft spot for the so called "Mark II" filter because less aggressive then more suited to my musical tastes than the Korg35 custom chip (shame on meeee).
 
+Here is my new attempt at recreating that iconic filter :)
+
 # Circuit design
 There are various projects developed around the MKII filter out there. Just to cite a few, take a look at [René Schmitz](https://www.schmitzbits.de/ms20.html) or [Kassutronics](https://kassu2000.blogspot.com/2019/07/ks-20-filter.html) work. Kassutronics one is particularly interesting because of the implementation of a blending function between the two filter modes.
 
