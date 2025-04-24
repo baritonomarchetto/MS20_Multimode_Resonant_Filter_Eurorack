@@ -1,2 +1,2 @@
 # MS20_Multimode_Resonant_Filter_Eurorack
-A Multimode Resonant Filter Module based on MS20 MKII for Eurorack Synthesizers 
+Multimode resonant filter module based on MS20 MKII for Eurorack Synthesizers 
