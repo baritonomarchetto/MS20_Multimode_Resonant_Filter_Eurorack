@@ -8,7 +8,7 @@ One of my favourite filter is the one Korg developed for its MS20 synthesizer. I
 
 Here is my new attempt at recreating that iconic filter :)
 
-# Circuit design
+# Circuit Design
 There are various projects developed around the MKII filter out there. Just to cite a few, take a look at [René Schmitz](https://www.schmitzbits.de/ms20.html) or [Kassutronics](https://kassu2000.blogspot.com/2019/07/ks-20-filter.html) work. Kassutronics one is particularly interesting because of the implementation of a blending function between the two filter modes.
 
 Original MKII filter's active components are LM13600 Dual Operational Transconductance Amplifiers (OTA), some generic amplifiers in buffer configuration at the LM13600 outputs and a JRC4558 dual op-amp in the feedback circuit. A dual PNP transistor in single package (A798F) is at the core of the circuit takeing care of CV tracking.
